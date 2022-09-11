@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#Unauthorized_page_1_);}
-</style>
-<linearGradient id="Unauthorized_page_1_" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="32" y2="64">
-	<stop  offset="0" style="stop-color:#FFAB09"/>
-	<stop  offset="0.7" style="stop-color:#FF6358"/>
-	<stop  offset="1" style="stop-color:#DD3169"/>
-</linearGradient>
-<path id="Unauthorized_page" class="st0" d="M0,0v64h64V0H0z M62,62H2V2h60V62z M24,23v18l4,4h8l4-4V23l-4-4h-8L24,23z M36,41h-8V23
-	h8V41z M54,19l4,4v7l-2,2l2,2v7l-4,4H43v-4h11v-7h-7v-4h7v-7H43v-4H54z M17,35H6V19h4v12h7v-8h4v22h-4V35z M58,13H6V9h52V13z M58,55
-	H6v-4h52V55z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 64 64" xml:space="preserve" style="enable-background:new 0 0 64 64"><style type="text/css">.st0{fill:url(#Unauthorized_page_1_)}</style><linearGradient id="Unauthorized_page_1_" x1="32" x2="32" y1="0" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#ffab09"/><stop offset=".7" style="stop-color:#ff6358"/><stop offset="1" style="stop-color:#dd3169"/></linearGradient><path id="Unauthorized_page" d="M0,0v64h64V0H0z M62,62H2V2h60V62z M24,23v18l4,4h8l4-4V23l-4-4h-8L24,23z M36,41h-8V23	h8V41z M54,19l4,4v7l-2,2l2,2v7l-4,4H43v-4h11v-7h-7v-4h7v-7H43v-4H54z M17,35H6V19h4v12h7v-8h4v22h-4V35z M58,13H6V9h52V13z M58,55	H6v-4h52V55z" class="st0"/></svg>
