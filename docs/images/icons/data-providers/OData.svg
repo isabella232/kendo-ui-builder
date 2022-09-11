@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#OData_1_);}
-</style>
-<linearGradient id="OData_1_" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="32" y2="64">
-	<stop  offset="0" style="stop-color:#FFAB09"/>
-	<stop  offset="0.7" style="stop-color:#FF6358"/>
-	<stop  offset="1" style="stop-color:#DD3169"/>
-</linearGradient>
-<path id="OData_2_" class="st0" d="M0,0v64h64V0H0z M18,58c-5,0-9-4-9-9c0-5,4-9,9-9s9,4,9,9C27,54,23,58,18,58z M30,38H6v-8h24V38z
-	 M30,26H6v-8h24V26z M30,14H6V6h24V14z M58,50H34v-8h24V50z M58,38H34v-8h24V38z M58,26H34v-8h24V26z M58,14H34V6h24V14z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 64 64" xml:space="preserve" style="enable-background:new 0 0 64 64"><style type="text/css">.st0{fill:url(#OData_1_)}</style><linearGradient id="OData_1_" x1="32" x2="32" y1="0" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#ffab09"/><stop offset=".7" style="stop-color:#ff6358"/><stop offset="1" style="stop-color:#dd3169"/></linearGradient><path id="OData_2_" d="M0,0v64h64V0H0z M18,58c-5,0-9-4-9-9c0-5,4-9,9-9s9,4,9,9C27,54,23,58,18,58z M30,38H6v-8h24V38z M30,26H6v-8h24V26z M30,14H6V6h24V14z M58,50H34v-8h24V50z M58,38H34v-8h24V38z M58,26H34v-8h24V26z M58,14H34V6h24V14z" class="st0"/></svg>

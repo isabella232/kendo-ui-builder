@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#Data_Grid_1_);}
-</style>
-<linearGradient id="Data_Grid_1_" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="32" y2="64">
-	<stop  offset="0" style="stop-color:#FFAB09"/>
-	<stop  offset="0.7" style="stop-color:#FF6358"/>
-	<stop  offset="1" style="stop-color:#DD3169"/>
-</linearGradient>
-<path id="Data_Grid" class="st0" d="M0,0v64h64V0H0z M2,10h29v7H2V10z M2,19h29v7H2V19z M2,28h29v7H2V28z M2,37h29v7H2V37z M2,46h29
-	v7H2V46z M2,55h29v7H2V55z M62,62H33v-7h29V62z M62,53H33v-7h29V53z M62,44H33v-7h29V44z M62,35H33v-7h29V35z M62,26H33v-7h29V26z
-	 M33,17v-7h29v7H33z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 64 64" xml:space="preserve" style="enable-background:new 0 0 64 64"><style type="text/css">.st0{fill:url(#Data_Grid_1_)}</style><linearGradient id="Data_Grid_1_" x1="32" x2="32" y1="0" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#ffab09"/><stop offset=".7" style="stop-color:#ff6358"/><stop offset="1" style="stop-color:#dd3169"/></linearGradient><path id="Data_Grid" d="M0,0v64h64V0H0z M2,10h29v7H2V10z M2,19h29v7H2V19z M2,28h29v7H2V28z M2,37h29v7H2V37z M2,46h29	v7H2V46z M2,55h29v7H2V55z M62,62H33v-7h29V62z M62,53H33v-7h29V53z M62,44H33v-7h29V44z M62,35H33v-7h29V35z M62,26H33v-7h29V26z M33,17v-7h29v7H33z" class="st0"/></svg>

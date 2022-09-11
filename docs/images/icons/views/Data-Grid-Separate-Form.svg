@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#Data_Grid_Separate_Form_1_);}
-</style>
-<linearGradient id="Data_Grid_Separate_Form_1_" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="32" y2="64">
-	<stop  offset="0" style="stop-color:#FFAB09"/>
-	<stop  offset="0.7" style="stop-color:#FF6358"/>
-	<stop  offset="1" style="stop-color:#DD3169"/>
-</linearGradient>
-<path id="Data_Grid_Separate_Form" class="st0" d="M6,49h52v-6H6V49z M8,45h48v2H8V45z M24,41H6v-2h20L24,41z M6,52h24v6H6V52z
-	 M58,6H6v21h52V6z M31,25H8v-3h23V25z M31,20H8v-3h23V20z M31,15H8v-3h23V15z M56,25H33v-3h23V25z M56,20H33v-3h23V20z M56,15H33v-3
-	h23V15z M0,0v64h64V0H0z M62,62H2V33l3,3l3-3l3,3l3-3l3,3l3-3l3,3l3-3l2.9,3l3.1-3l3,3l3-3l3.1,3l2.9-3l3.1,3l2.9-3l2.9,3l3.1-3l3,3
-	l3-3V62z M62,31l-3,3l-3-3l-3.1,3L50,31l-2.9,3.1L44,31l-2.9,3L38,31l-3,3l-3-3l-3.1,3L26,31l-3,3l-3-3l-3,3l-3-3l-3,3l-3-3l-3,3
-	l-3-3V2h60V31z M34,52h24v6H34V52z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 64 64" xml:space="preserve" style="enable-background:new 0 0 64 64"><style type="text/css">.st0{fill:url(#Data_Grid_Separate_Form_1_)}</style><linearGradient id="Data_Grid_Separate_Form_1_" x1="32" x2="32" y1="0" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#ffab09"/><stop offset=".7" style="stop-color:#ff6358"/><stop offset="1" style="stop-color:#dd3169"/></linearGradient><path id="Data_Grid_Separate_Form" d="M6,49h52v-6H6V49z M8,45h48v2H8V45z M24,41H6v-2h20L24,41z M6,52h24v6H6V52z M58,6H6v21h52V6z M31,25H8v-3h23V25z M31,20H8v-3h23V20z M31,15H8v-3h23V15z M56,25H33v-3h23V25z M56,20H33v-3h23V20z M56,15H33v-3	h23V15z M0,0v64h64V0H0z M62,62H2V33l3,3l3-3l3,3l3-3l3,3l3-3l3,3l3-3l2.9,3l3.1-3l3,3l3-3l3.1,3l2.9-3l3.1,3l2.9-3l2.9,3l3.1-3l3,3	l3-3V62z M62,31l-3,3l-3-3l-3.1,3L50,31l-2.9,3.1L44,31l-2.9,3L38,31l-3,3l-3-3l-3.1,3L26,31l-3,3l-3-3l-3,3l-3-3l-3,3l-3-3l-3,3	l-3-3V2h60V31z M34,52h24v6H34V52z" class="st0"/></svg>
